@@ -1,0 +1,9 @@
+
+POST http://localhost:9090/nettyTest
+Content-Type: application/json; charset=utf-8
+
+{
+"test":"Hello Netty!"
+}
+
+###
